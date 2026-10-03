@@ -18,4 +18,6 @@ func main() {
 	firstName = "John"
 	lastName = "Doe"
 	fmt.Println(firstName, lastName)
+	email := "john@acmecorp.com"
+	fmt.Println(email)
 }
